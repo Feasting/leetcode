@@ -66,7 +66,7 @@
 
 ### Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
@@ -77,7 +77,7 @@
 
 ### Matrix
 
-- [ ] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+- [x] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 - [ ] Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
 - [ ] Rotate Image - https://leetcode.com/problems/rotate-image/
 - [ ] Word Search - https://leetcode.com/problems/word-search/
