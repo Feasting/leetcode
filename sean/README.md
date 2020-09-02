@@ -27,7 +27,7 @@
 
 ### Dynamic Programming
 
-- [ ] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - [ ] Coin Change - https://leetcode.com/problems/coin-change/
 - [ ] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence -
@@ -68,7 +68,7 @@
 
 - [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
-- [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+- [x] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - [ ] Reorder List - https://leetcode.com/problems/reorder-list/
@@ -108,7 +108,7 @@
 - [x] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - [ ] Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- [x] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - [x] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [x] Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [ ] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
