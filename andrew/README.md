@@ -2,10 +2,10 @@
 
 ### Array
 
-- [ ] Two Sum - https://leetcode.com/problems/two-sum/
-- [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
-- [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+- [x] Two Sum - https://leetcode.com/problems/two-sum/
+- [x] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- [x] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+- [x] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
@@ -58,7 +58,7 @@
 
 - [ ] Insert Interval - https://leetcode.com/problems/insert-interval/
 - [x] Merge Intervals - https://leetcode.com/problems/merge-intervals/
-- [ ] Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
+- [x] Non-overlapping Intervals - https://leetcode.com/problems/non-overlapping-intervals/
 - [ ] Meeting Rooms (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms/
 - [ ] Meeting Rooms II (Leetcode Premium) - https://leetcode.com/problems/meeting-rooms-ii/
 
@@ -66,8 +66,8 @@
 
 ### Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
@@ -77,7 +77,7 @@
 
 ### Matrix
 
-- [ ] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
+- [x] Set Matrix Zeroes - https://leetcode.com/problems/set-matrix-zeroes/
 - [ ] Spiral Matrix - https://leetcode.com/problems/spiral-matrix/
 - [ ] Rotate Image - https://leetcode.com/problems/rotate-image/
 - [ ] Word Search - https://leetcode.com/problems/word-search/

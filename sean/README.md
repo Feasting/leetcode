@@ -5,7 +5,7 @@
 - [x] Two Sum - https://leetcode.com/problems/two-sum/
 - [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [x] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
-- [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+- [x] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - [ ] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
@@ -27,7 +27,7 @@
 
 ### Dynamic Programming
 
-- [ ] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - [ ] Coin Change - https://leetcode.com/problems/coin-change/
 - [ ] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence -
@@ -67,8 +67,8 @@
 ### Linked List
 
 - [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
-- [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
-- [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
+- [x] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
+- [x] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - [ ] Reorder List - https://leetcode.com/problems/reorder-list/
@@ -86,7 +86,7 @@
 
 ### String
 
-- [ ] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- [x] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - [ ] Valid Anagram - https://leetcode.com/problems/valid-anagram/
@@ -108,7 +108,7 @@
 - [x] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - [ ] Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
-- [ ] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+- [x] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - [x] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [x] Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [ ] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
