@@ -11,7 +11,7 @@
 - [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - [ ] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [ ] 3Sum - https://leetcode.com/problems/3sum/
-- [ ] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
+- [x] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ---
 
@@ -71,7 +71,7 @@
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Remove Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-- [ ] Reorder List - https://leetcode.com/problems/reorder-list/
+- [x] Reorder List - https://leetcode.com/problems/reorder-list/
 
 ---
 
@@ -92,7 +92,7 @@
 - [ ] Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - [ ] Group Anagrams - https://leetcode.com/problems/group-anagrams/
 - [ ] Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
-- [ ] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
+- [x] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - [ ] Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
 - [ ] Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 - [ ] Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
