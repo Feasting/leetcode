@@ -5,7 +5,7 @@
 - [X] Two Sum - https://leetcode.com/problems/two-sum/
 - [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 - [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
-- [ ] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
+- [X] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - [ ] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
@@ -43,7 +43,7 @@
 
 ### Graph
 
-- [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
+- [X] Clone Graph - https://leetcode.com/problems/clone-graph/
 - [ ] Course Schedule - https://leetcode.com/problems/course-schedule/
 - [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - [ ] Number of Islands - https://leetcode.com/problems/number-of-islands/
@@ -101,7 +101,7 @@
 
 ### Tree
 
-- [ ] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [X] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - [ ] Same Tree - https://leetcode.com/problems/same-tree/
 - [ ] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
