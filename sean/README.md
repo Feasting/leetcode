@@ -126,6 +126,9 @@
 
 
 ## Amazon Questions
+
+Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1
+
 - [x] Two Sum (#1)
 - [ ] Median of Two Sorted Arrays * (#4)
 - [ ] Longest Palindromic Substring (#5)
