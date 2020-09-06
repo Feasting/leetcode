@@ -90,7 +90,7 @@
 - [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - [x] Valid Anagram - https://leetcode.com/problems/valid-anagram/
-- [ ] Group Anagrams - https://leetcode.com/problems/group-anagrams/
+- [x] Group Anagrams - https://leetcode.com/problems/group-anagrams/	(make solution more efficient)
 - [x] Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - [x] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - [ ] Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
@@ -107,7 +107,7 @@
 - [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
 - [x] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
-- [ ] Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
+- [x] Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 - [ ] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [ ] Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
