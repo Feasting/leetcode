@@ -149,7 +149,7 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [x] Symmetric Tree ~ (#101)
 - [ ] Binary Tree Level Order Traversal (#102)
 - [ ] Convert Sorted List to Binary Search Tree (#109)
-- [ ] Populating Next Right Pointers in Each Node (#116)
+- [x] Populating Next Right Pointers in Each Node (#116)
 - [x] Best Time to Buy and Sell Stock (#121)
 - [ ] Word Ladder II (#126)
 - [ ] Word Ladder (#127)
