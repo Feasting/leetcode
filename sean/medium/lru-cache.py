@@ -1,29 +1,30 @@
 # 9-5-2020
 # https://leetcode.com/problems/lru-cache/
 
+from collections import OrderedDict
+
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.cache = {}
+        self.cache = OrderedDict()
+        self.length = 0
         self.capacity = capacity
-        self.lru = []
 
     def get(self, key: int) -> int:
-        if key not in self.cache:
-            return -1
-        self.set_lru(key)
-        return self.cache[key]
+        if key in self.cache:
+            self.cache.move_to_end(key)
+            return self.cache[key]
+        return -1
 
     def put(self, key: int, value: int) -> None:
-        self.set_lru(key)
-        if len(self.cache) == self.capacity and key not in self.cache:
-            del self.cache[self.lru.pop(0)]
+        if key in self.cache:
+            self.cache.move_to_end(key)
+        else:
+            if self.length == self.capacity:
+                self.cache.popitem(False)
+            else:
+                self.length += 1
         self.cache[key] = value
-    
-    def set_lru(self, key: int):
-        if key in self.lru:
-            self.lru.remove(key)
-        self.lru.append(key)
 
 
 # Your LRUCache object will be instantiated and called as such:
