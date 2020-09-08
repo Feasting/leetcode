@@ -18,7 +18,7 @@
 ### Binary
 
 - [ ] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
-- [ ] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
+- [x] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
 - [ ] Counting Bits - https://leetcode.com/problems/counting-bits/
 - [ ] Missing Number - https://leetcode.com/problems/missing-number/
 - [ ] Reverse Bits - https://leetcode.com/problems/reverse-bits/
@@ -46,7 +46,7 @@
 - [x] Clone Graph - https://leetcode.com/problems/clone-graph/
 - [ ] Course Schedule - https://leetcode.com/problems/course-schedule/
 - [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
-- [ ] Number of Islands - https://leetcode.com/problems/number-of-islands/
+- [x] Number of Islands - https://leetcode.com/problems/number-of-islands/
 - [ ] Longest Consecutive Sequence - https://leetcode.com/problems/longest-consecutive-sequence/
 - [ ] Alien Dictionary (Leetcode Premium) - https://leetcode.com/problems/alien-dictionary/
 - [ ] Graph Valid Tree (Leetcode Premium) - https://leetcode.com/problems/graph-valid-tree/
