@@ -158,7 +158,7 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [ ] Number of Islands (#200)
 - [ ] Course Schedule (#207)
 - [ ] Course Schedule II (#210)
-- [ ] Add and Search Word - Data structure design (#211)
+- [x] Add and Search Word - Data structure design (#211)
 - [ ] Word Search II (#212)
 - [ ] Integer to English Words (#273)
 - [ ] Game of Life (#289)
