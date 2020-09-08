@@ -167,5 +167,5 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [ ] Design Tic-Tac-Toe (#348)
 - [ ] Pacific Atlantic Water Flow (#417)
 - [ ] Minesweeper (#529)
-- [ ] Diameter of Binary Tree (#543)
+- [x] Diameter of Binary Tree (#543)
 - [ ] Reorganize String (#767)
