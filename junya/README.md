@@ -9,7 +9,7 @@
 - [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [x] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [ ] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+- [x] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [ ] 3Sum - https://leetcode.com/problems/3sum/
 - [x] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
@@ -43,7 +43,7 @@
 
 ### Graph
 
-- [ ] Clone Graph - https://leetcode.com/problems/clone-graph/
+- [x] Clone Graph - https://leetcode.com/problems/clone-graph/
 - [ ] Course Schedule - https://leetcode.com/problems/course-schedule/
 - [ ] Pacific Atlantic Water Flow - https://leetcode.com/problems/pacific-atlantic-water-flow/
 - [ ] Number of Islands - https://leetcode.com/problems/number-of-islands/
@@ -66,7 +66,7 @@
 
 ### Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [x] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/

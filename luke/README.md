@@ -4,7 +4,7 @@
 
 - [X] Two Sum - https://leetcode.com/problems/two-sum/
 - [ ] Best Time to Buy and Sell Stock - https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-- [ ] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
+- [X] Contains Duplicate - https://leetcode.com/problems/contains-duplicate/
 - [X] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - [ ] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [ ] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
@@ -66,7 +66,7 @@
 
 ### Linked List
 
-- [ ] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
+- [X] Reverse a Linked List - https://leetcode.com/problems/reverse-linked-list/
 - [ ] Detect Cycle in a Linked List - https://leetcode.com/problems/linked-list-cycle/
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
@@ -103,7 +103,7 @@
 
 - [X] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
 - [X] Same Tree - https://leetcode.com/problems/same-tree/
-- [ ] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
+- [X] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
 - [ ] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/

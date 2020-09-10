@@ -109,7 +109,7 @@
 - [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 - [x] Subtree of Another Tree - https://leetcode.com/problems/subtree-of-another-tree/
 - [ ] Construct Binary Tree from Preorder and Inorder Traversal - https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-- [ ] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
+- [x] Validate Binary Search Tree - https://leetcode.com/problems/validate-binary-search-tree/
 - [ ] Kth Smallest Element in a BST - https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 - [ ] Lowest Common Ancestor of BST - https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 - [ ] Implement Trie (Prefix Tree) - https://leetcode.com/problems/implement-trie-prefix-tree/
@@ -123,3 +123,48 @@
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Top K Frequent Elements - https://leetcode.com/problems/top-k-frequent-elements/
 - [ ] Find Median from Data Stream - https://leetcode.com/problems/find-median-from-data-stream/
+
+## Amazon Questions
+
+Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1
+
+- [x] Two Sum (#1)
+- [ ] Median of Two Sorted Arrays * (#4)
+- [ ] Longest Palindromic Substring (#5)
+- [ ] String to Integer (atoi) (#8)
+- [ ] Integer to Roman (#12)
+- [ ] Roman to Integer (#13)
+- [x] Valid Parentheses (#20)
+- [ ] Merge K Sorted Lists (#23)
+- [ ] Valid Sudoku (#36)
+- [ ] Combination Sum (#39)
+- [ ] Permutations (#46)
+- [x] Merge Intervals (#56)
+- [ ] Rotate List (#61)
+- [ ] Minimum Path Sum (#64)
+- [ ] Word Search (#79)
+- [x] Validate Binary Search Tree(#98)
+- [x] Same Tree ~ (#100)
+- [ ] Symmetric Tree ~ (#101)
+- [ ] Binary Tree Level Order Traversal (#102)
+- [ ] Convert Sorted List to Binary Search Tree (#109)
+- [ ] Populating Next Right Pointers in Each Node (#116)
+- [x] Best Time to Buy and Sell Stock (#121)
+- [ ] Word Ladder II (#126)
+- [ ] Word Ladder (#127)
+- [ ] LRU Cache (#146)
+- [x] Min Stack (#155)
+- [x] Number of Islands (#200)
+- [ ] Course Schedule (#207)
+- [ ] Course Schedule II (#210)
+- [ ] Add and Search Word - Data structure design (#211)
+- [ ] Word Search II (#212)
+- [ ] Integer to English Words (#273)
+- [ ] Game of Life (#289)
+- [ ] Find Median from Data Stream (#295)
+- [ ] Longest Increasing Subsequence (#300)
+- [ ] Design Tic-Tac-Toe (#348)
+- [ ] Pacific Atlantic Water Flow (#417)
+- [ ] Minesweeper (#529)
+- [ ] Diameter of Binary Tree (#543)
+- [ ] Reorganize String (#767)
