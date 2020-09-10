@@ -10,7 +10,7 @@
 - [x] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - [x] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
-- [ ] 3Sum - https://leetcode.com/problems/3sum/
+- [x] 3Sum - https://leetcode.com/problems/3sum/
 - [x] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
 ---
@@ -27,7 +27,7 @@
 
 ### Dynamic Programming
 
-- [ ] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
+- [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
 - [ ] Coin Change - https://leetcode.com/problems/coin-change/
 - [x] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence -
@@ -91,7 +91,7 @@ Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-e
 - [ ] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
-- [ ] Valid Anagram - https://leetcode.com/problems/valid-anagram/
+- [x] Valid Anagram - https://leetcode.com/problems/valid-anagram/
 - [ ] Group Anagrams - https://leetcode.com/problems/group-anagrams/	(make solution more efficient)
 - [ ] Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - [ ] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
