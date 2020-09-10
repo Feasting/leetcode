@@ -139,7 +139,7 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [ ] Merge K Sorted Lists (#23)
 - [ ] Valid Sudoku (#36)
 - [ ] Combination Sum (#39)
-- [ ] Permutations (#46)
+- [x] Permutations (#46)
 - [ ] Merge Intervals (#56)
 - [x] Rotate List (#61)
 - [ ] Minimum Path Sum (#64)
