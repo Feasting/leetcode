@@ -135,7 +135,7 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [ ] String to Integer (atoi) (#8)
 - [ ] Integer to Roman (#12)
 - [ ] Roman to Integer (#13)
-- [ ] Valid Parentheses (#20)
+- [x] Valid Parentheses (#20)
 - [ ] Merge K Sorted Lists (#23)
 - [ ] Valid Sudoku (#36)
 - [ ] Combination Sum (#39)
