@@ -7,3 +7,4 @@ Leetcode Topics
 * recursion
 * breadth first search
 * create new head ~ use two pointers linkedlist
+* count length of linked list - start at 0 while node != None
