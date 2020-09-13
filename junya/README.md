@@ -28,15 +28,15 @@
 ### Dynamic Programming
 
 - [x] Climbing Stairs - https://leetcode.com/problems/climbing-stairs/
-- [ ] Coin Change - https://leetcode.com/problems/coin-change/
+- [x] Coin Change - https://leetcode.com/problems/coin-change/
 - [x] Longest Increasing Subsequence - https://leetcode.com/problems/longest-increasing-subsequence/
 - [ ] Longest Common Subsequence -
 - [ ] Word Break Problem - https://leetcode.com/problems/word-break/
-- [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
+- [x] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
 - [ ] House Robber - https://leetcode.com/problems/house-robber/
 - [ ] House Robber II - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
-- [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
+- [x] Unique Paths - https://leetcode.com/problems/unique-paths/
 - [ ] Jump Game - https://leetcode.com/problems/jump-game/
 
 ---
@@ -71,8 +71,7 @@
 - [ ] Merge Two Sorted Lists - https://leetcode.com/problems/merge-two-sorted-lists/
 - [ ] Merge K Sorted Lists - https://leetcode.com/problems/merge-k-sorted-lists/
 - [ ] Reorder List - https://leetcode.com/problems/reorder-list/
- 
-Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+- [ ] Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 - [ ] Reorder List - https://leetcode.com/problems/reorder-list/
 
 ---
@@ -103,9 +102,9 @@ Nth Node From End Of List - https://leetcode.com/problems/remove-nth-node-from-e
 
 ### Tree
 
-- [ ] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
-- [ ] Same Tree - https://leetcode.com/problems/same-tree/
-- [ ] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
+- [x] Maximum Depth of Binary Tree - https://leetcode.com/problems/maximum-depth-of-binary-tree/
+- [x] Same Tree - https://leetcode.com/problems/same-tree/
+- [x] Invert/Flip Binary Tree - https://leetcode.com/problems/invert-binary-tree/
 - [ ] Binary Tree Maximum Path Sum - https://leetcode.com/problems/binary-tree-maximum-path-sum/
 - [ ] Binary Tree Level Order Traversal - https://leetcode.com/problems/binary-tree-level-order-traversal/
 - [ ] Serialize and Deserialize Binary Tree - https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
