@@ -8,7 +8,7 @@
 - [x] Product of Array Except Self - https://leetcode.com/problems/product-of-array-except-self/
 - [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [x] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
-- [ ] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+- [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 - [ ] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [ ] 3Sum - https://leetcode.com/problems/3sum/
 - [x] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
@@ -86,7 +86,7 @@
 
 ### String
 
-- [ ] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
+- [x] Longest Substring Without Repeating Characters - https://leetcode.com/problems/longest-substring-without-repeating-characters/
 - [ ] Longest Repeating Character Replacement - https://leetcode.com/problems/longest-repeating-character-replacement/
 - [ ] Minimum Window Substring - https://leetcode.com/problems/minimum-window-substring/
 - [x] Valid Anagram - https://leetcode.com/problems/valid-anagram/
@@ -140,7 +140,7 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [ ] Combination Sum (#39)
 - [ ] Permutations (#46)
 - [x] Merge Intervals (#56)
-- [ ] Rotate List (#61)
+- [x] Rotate List (#61)
 - [ ] Minimum Path Sum (#64)
 - [ ] Word Search (#79)
 - [x] Validate Binary Search Tree(#98)
