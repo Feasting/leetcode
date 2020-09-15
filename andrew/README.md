@@ -9,7 +9,7 @@
 - [x] Maximum Subarray - https://leetcode.com/problems/maximum-subarray/
 - [x] Maximum Product Subarray - https://leetcode.com/problems/maximum-product-subarray/
 - [x] Find Minimum in Rotated Sorted Array - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
-- [ ] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
+- [x] Search in Rotated Sorted Array - https://leetcode.com/problems/search-in-rotated-sorted-array/
 - [ ] 3Sum - https://leetcode.com/problems/3sum/
 - [x] Container With Most Water - https://leetcode.com/problems/container-with-most-water/
 
@@ -33,7 +33,7 @@
 - [ ] Longest Common Subsequence -
 - [ ] Word Break Problem - https://leetcode.com/problems/word-break/
 - [ ] Combination Sum - https://leetcode.com/problems/combination-sum-iv/
-- [ ] House Robber - https://leetcode.com/problems/house-robber/
+- [x] House Robber - https://leetcode.com/problems/house-robber/
 - [ ] House Robber II - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
 - [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
