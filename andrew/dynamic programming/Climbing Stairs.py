@@ -54,3 +54,18 @@ class Solution:
             
         memo = [None] * n
         return climb(0, n, memo)
+
+
+#Iterative solution
+class Solution:
+    def climbStairs(self, n: int) -> int:
+        
+        memo = [None] * (n + 1)
+        #Ways to climb 0 and 1 stairs is 1
+        memo[0] = 1 
+        memo[1] = 1
+        for i in range(2, n + 1):
+            #Two ways to get to next step which is take 1 or 2 steps
+            memo[i] = memo[i - 1] + memo[i - 2]
+        
+        return memo[n]
