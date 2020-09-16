@@ -9,3 +9,7 @@ Leetcode Topics
 * create new head ~ use two pointers linkedlist
 * count length of linked list - start at 0 while node != None
 * dynamic programing - building up to solution
+
+*dynamic programming
+		* Building up amounts (bottom up)
+		* Keep track of best sums (bottom up)

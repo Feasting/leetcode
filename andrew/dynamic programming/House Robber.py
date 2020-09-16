@@ -45,3 +45,22 @@ class Solution:
             memo[i + 1] = max(memo[i], memo[i - 1] + nums[i] )
         
         return memo[ len(nums)]
+
+"""
+
+#Rob House Zero
+        dp[0] = 0
+        #Rob House One
+        dp[1] = dp[0] 
+        
+        for i in range(2, len(nums) + 1):
+            #Robbed Last House
+            robbedLastHouse = dp[i - 1]
+            #Didn't Rob Last House, so add amt from two houses ago + current house
+            didNotRobLastHouse = dp[i - 2] + nums[i - 1]
+            dp[i] = max(robbedLastHouse, didNotRobLastHouse)
+        
+        #Return amount at last house where robbed or not
+        return dp[ len(nums) ]
+
+"""
