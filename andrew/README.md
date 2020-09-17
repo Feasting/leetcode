@@ -17,7 +17,7 @@
 
 ### Binary
 
-- [ ] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
+- [x] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 - [x] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
 - [ ] Counting Bits - https://leetcode.com/problems/counting-bits/
 - [ ] Missing Number - https://leetcode.com/problems/missing-number/
@@ -36,7 +36,7 @@
 - [x] House Robber - https://leetcode.com/problems/house-robber/
 - [x] House Robber II - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
-- [ ] Unique Paths - https://leetcode.com/problems/unique-paths/
+- [x] Unique Paths - https://leetcode.com/problems/unique-paths/
 - [ ] Jump Game - https://leetcode.com/problems/jump-game/
 
 ---
