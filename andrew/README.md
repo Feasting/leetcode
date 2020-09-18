@@ -20,7 +20,7 @@
 - [x] Sum of Two Integers - https://leetcode.com/problems/sum-of-two-integers/
 - [x] Number of 1 Bits - https://leetcode.com/problems/number-of-1-bits/
 - [ ] Counting Bits - https://leetcode.com/problems/counting-bits/
-- [ ] Missing Number - https://leetcode.com/problems/missing-number/
+- [x] Missing Number - https://leetcode.com/problems/missing-number/
 - [ ] Reverse Bits - https://leetcode.com/problems/reverse-bits/
 
 ---
@@ -37,7 +37,7 @@
 - [x] House Robber II - https://leetcode.com/problems/house-robber-ii/
 - [ ] Decode Ways - https://leetcode.com/problems/decode-ways/
 - [x] Unique Paths - https://leetcode.com/problems/unique-paths/
-- [ ] Jump Game - https://leetcode.com/problems/jump-game/
+- [x] Jump Game - https://leetcode.com/problems/jump-game/
 
 ---
 
