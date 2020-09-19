@@ -94,7 +94,7 @@
 - [x] Valid Parentheses - https://leetcode.com/problems/valid-parentheses/
 - [x] Valid Palindrome - https://leetcode.com/problems/valid-palindrome/
 - [ ] Longest Palindromic Substring - https://leetcode.com/problems/longest-palindromic-substring/
-- [ ] Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
+- [x] Palindromic Substrings - https://leetcode.com/problems/palindromic-substrings/
 - [ ] Encode and Decode Strings (Leetcode Premium) - https://leetcode.com/problems/encode-and-decode-strings/
 
 ---
@@ -145,8 +145,8 @@ Link: https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interv
 - [ ] Word Search (#79)
 - [x] Validate Binary Search Tree(#98)
 - [x] Same Tree ~ (#100)
-- [ ] Symmetric Tree ~ (#101)
-- [ ] Binary Tree Level Order Traversal (#102)
+- [x] Symmetric Tree ~ (#101)
+- [x] Binary Tree Level Order Traversal (#102)
 - [ ] Convert Sorted List to Binary Search Tree (#109)
 - [ ] Populating Next Right Pointers in Each Node (#116)
 - [x] Best Time to Buy and Sell Stock (#121)
