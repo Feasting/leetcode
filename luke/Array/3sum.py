@@ -1,6 +1,6 @@
 class Solution:
 
-# TIME EXCEEDED
+    # TIME EXCEEDED
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         checkDup = set()
         threeSumVec = []
@@ -19,6 +19,8 @@ class Solution:
         
         return threeSumVec
 
+
+    # double pointer with one fixed 
     def threeSum2(self, nums: List[int]) -> List[List[int]]:
         threeSumVec = []
         nums.sort()
